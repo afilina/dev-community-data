@@ -67,7 +67,16 @@
     },
     {
         "name": "GlasgowPHP",
-        "first_meetup": "2014-08-01"
+        "first_meetup": "2014-08-01",
+        "last_meetup": "",
+        "locations": [
+            {
+                "name": "Glasgow, Scotland, UK"
+            }
+        ],
+        "website": "http://www.glasgowphp.co.uk/",
+        "twitter": "@glasgowphp",
+        "calendar_feed": ""
     },
     {
         "name": "PHP Berkshire",
