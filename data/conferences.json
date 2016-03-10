@@ -327,17 +327,307 @@
                 },
                 "event_start": "2016-05-23",
                 "event_end": "2016-05-27",
-                "cfp_start": "",
-                "cfp_end": "",
+                "cfp_start": "2015-12-14",
+                "cfp_end": "2016-01-16",
                 "session_feed": "",
                 "speaker_feed": "",
                 "organizers": [
                     {
                         "name": "Eli White",
                         "twitter": "@EliW"
+                    },
+                    {
+                        "name": "Heather White",
+                        "twitter": "@CattyCreations"
+                    },
+                    {
+                        "name": "Kevin Bruce",
+                        "twitter": "@kevinbruce"
+                    },
+                    {
+                        "name": "Oscar Merida",
+                        "twitter": "@omerida"
+                    },
+                    {
+                        "name": "Sandy Smith",
+                        "twitter": "@SandyS1"
                     }
                 ]
-            }
+            },
+            {
+                "name": "php[tek] 2015",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2015-05-18",
+                "event_end": "2015-05-22",
+                "cfp_start": "2014-12-16",
+                "cfp_end": "2015-01-19",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Eli White",
+                        "twitter": "@EliW"
+                    },
+                    {
+                        "name": "Heather White",
+                        "twitter": "@CattyCreations"
+                    },
+                    {
+                        "name": "Kevin Bruce",
+                        "twitter": "@kevinbruce"
+                    },
+                    {
+                        "name": "Oscar Merida",
+                        "twitter": "@omerida"
+                    },
+                    {
+                        "name": "Sandy Smith",
+                        "twitter": "@SandyS1"
+                    },
+                    {
+                        "name": "Beth Tucker Long",
+                        "twitter": "@e3BethT"
+                    }
+                ]
+            },
+            {
+                "name": "php[tek] 2014",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2014-05-19",
+                "event_end": "2014-05-23",
+                "cfp_start": "2013-12-09",
+                "cfp_end": "2014-01-10",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Eli White",
+                        "twitter": "@EliW"
+                    },
+                    {
+                        "name": "Heather White",
+                        "twitter": "@CattyCreations"
+                    },
+                    {
+                        "name": "Kevin Bruce",
+                        "twitter": "@kevinbruce"
+                    },
+                    {
+                        "name": "Oscar Merida",
+                        "twitter": "@omerida"
+                    },
+                    {
+                        "name": "Sandy Smith",
+                        "twitter": "@SandyS1"
+                    }
+                ]
+            },
+            {
+                "name": "php[tek] 2013",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2013-05-14",
+                "event_end": "2013-05-17",
+                "cfp_start": "2012-12-13",
+                "cfp_end": "2013-01-15",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Eli White",
+                        "twitter": "@EliW"
+                    },
+                    {
+                        "name": "Kevin Bruce",
+                        "twitter": "@kevinbruce"
+                    },
+                    {
+                        "name": "Oscar Merida",
+                        "twitter": "@omerida"
+                    },
+                    {
+                        "name": "Sandy Smith",
+                        "twitter": "@SandyS1"
+                    },
+                    {
+                        "name": "Beth Tucker Long",
+                        "twitter": "@e3BethT"
+                    }
+                ]
+            },
+            {
+                "name": "php|tek 2012",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2012-05-22",
+                "event_end": "2012-05-25",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Marco Tabini",
+                        "twitter": "@mtabini"
+                    },
+                    {
+                        "name": "Cal Evans",
+                        "twitter": "@calevans"
+                    },
+                    {
+                        "name": "Arbi Arzoumani",
+                        "twitter": "@arzoum"
+                    },
+                    {
+                        "name": "Keith Casey",
+                        "twitter": "@caseysoftware"
+                    },
+                    {
+                        "name": "Beth Tucker Long",
+                        "twitter": "@e3BethT"
+                    }
+                ]
+            },
+            {
+                "name": "php|tek 2011",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2011-05-24",
+                "event_end": "2011-05-27",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Marco Tabini",
+                        "twitter": "@mtabini"
+                    },
+                    {
+                        "name": "Arbi Arzoumani",
+                        "twitter": "@arzoum"
+                    },
+                    {
+                        "name": "Cal Evans",
+                        "twitter": "@calevans"
+                    },
+                    {
+                        "name": "Keith Casey",
+                        "twitter": "@caseysoftware"
+                    },
+                    {
+                        "name": "Beth Tucker Long",
+                        "twitter": "@e3BethT"
+                    }
+                ]
+            },
+            {
+                "name": "php|tek 2009",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2009-05-19",
+                "event_end": "2009-05-22",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Marco Tabini",
+                        "twitter": "@mtabini"
+                    },
+                    {
+                        "name": "Arbi Arzoumani",
+                        "twitter": "@arzoum"
+                    },
+                    {
+                        "name": "Cal Evans",
+                        "twitter": "@calevans"
+                    },
+                    {
+                        "name": "Keith Casey",
+                        "twitter": "@caseysoftware"
+                    },
+                    {
+                        "name": "Beth Tucker Long",
+                        "twitter": "@e3BethT"
+                    }
+                ]
+            },
+            {
+                "name": "php|tek 2008",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2008-05-20",
+                "event_end": "2008-05-23",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Marco Tabini",
+                        "twitter": "@mtabini"
+                    },
+                    {
+                        "name": "Arbi Arzoumani",
+                        "twitter": "@arzoum"
+                    }
+                ]
+            },
+            {
+                "name": "php|tek 2007",
+                "location": {
+                    "name": "Chicago, IL, USA"
+                },
+                "event_start": "2007-05-15",
+                "event_end": "2007-05-18",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Marco Tabini",
+                        "twitter": "@mtabini"
+                    },
+                    {
+                        "name": "Arbi Arzoumani",
+                        "twitter": "@arzoum"
+                    }
+                ]
+            },
+            {
+                "name": "php|tek 2006",
+                "location": {
+                    "name": "Orlando, FL, USA"
+                },
+                "event_start": "2006-04-25",
+                "event_end": "2006-04-28",
+                "cfp_start": "",
+                "cfp_end": "",
+                "session_feed": "",
+                "speaker_feed": "",
+                "organizers": [
+                    {
+                        "name": "Marco Tabini",
+                        "twitter": "@mtabini"
+                    },
+                    {
+                        "name": "Arbi Arzoumani",
+                        "twitter": "@arzoum"
+                    }
+                ]
+            },
         ],
         "website": "https://tek.phparch.com/",
         "twitter": "@phparch"
