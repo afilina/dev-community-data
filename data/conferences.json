@@ -1,6 +1,41 @@
 
 [
     {
+        "key": "phpDay",
+        "name": "phpDay",
+        "tags": ["php"],
+        "first_event": "2012-05-18",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
+        "events": [
+            {
+                "name": "phpDay 2017",
+                "location": {
+                    "name": "Verona, Italy"
+                },
+                "event_start": "2017-05-12",
+                "event_end": "2017-05-13",
+                "cfp_start": "2016-08-08",
+                "cfp_end": "2017-01-31",
+                "session_feed": "",
+                "speaker_feed": "",
+                "hashtag": "",
+                "organizers": [
+                    {
+                        "name": "phpDay by GrUSP",
+                        "twitter": "@phpDay"
+                    }
+                ]
+            }
+        ],
+        "website": "http://2017.phpday.it/",
+        "twitter": "@phpDay"
+    },
+    {
         "key": "ScotlandPHP",
         "name": "Scotland PHP",
         "tags": ["php", "databases", "devops", "security"],
