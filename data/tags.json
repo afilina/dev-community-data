@@ -55,7 +55,7 @@
     "robotics": {},
     "security": {},
     "ux": {},
-    "webserver: {
+    "webserver": {
         "apache": {},
         "nginx": {}
     }
