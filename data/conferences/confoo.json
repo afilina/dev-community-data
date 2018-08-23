@@ -201,6 +201,23 @@
                     "twitter": "@ylarrivee"
                 }
             ]
+        },
+        {
+            "name": "ConFoo Montreal 2019",
+            "location": {
+                "name": "Montreal, QC, Canada"
+            },
+            "event_start": "2018-03-13",
+            "event_end": "2018-03-15",
+            "cfp_start": "2017-08-23",
+            "cfp_end": "2017-09-24",
+            "hashtag": "#confoo",
+            "organizers": [
+                {
+                    "name": "Yann Larrivée",
+                    "twitter": "@ylarrivee"
+                }
+            ]
         }
 
     ],
