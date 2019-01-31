@@ -5,9 +5,15 @@
     "is_active": true,
     "speaker_kit": {
         "ticket_included": true,
-        "hotel_included": true,
-        "travel_included": true
+        "hotel_included": false,
+        "travel_included": false
     },
+    "website": "https://www.codercruise.com",
+    "twitter": "@codercruise",
+    "languages": ["en"],
+    "code_of_conduct": "https://www.codercruise.com/code-of-conduct/",
+    "accessibility": "",
+    "diversity_tickets": "",
     "events": [
         {
             "name": "CoderCruise",
@@ -62,8 +68,33 @@
                     "twitter": "@oneforallevents"
                 }
             ]
+        },
+        {
+            "name": "CoderCruise 2019",
+            "location": {
+                "name": "Port Canaveral, FL, USA"
+            },
+            "event_start": "2019-08-19",
+            "event_end": "2019-09-23",
+            "cfp_start": "2019-01-31",
+            "cfp_end": "2019-03-03",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#CoderCruise",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "One for All Events",
+                    "twitter": "@oneforallevents"
+                }
+            ]
         }
-    ],
-    "website": "https://www.codercruise.com",
-    "twitter": "@oneforallevents"
+    ]
 }
