@@ -1,8 +1,13 @@
 {
     "name": "php[tek]",
-    "tags": [
-        "php"
-    ],
+    "website": "https://tek.phparch.com/",
+    "twitter": "@phparch",
+    "tags": [ "php" ],
+    "languages": ["en"],
+    "facebook": "https://www.facebook.com/events/519423225215967/",
+    "code_of_conduct": "https://tek.phparch.com/policies/",
+    "accessibility": "https://tek.phparch.com/diversity/",
+    "diversity_tickets": "https://tek.phparch.com/diversity/",
     "first_event": "2016-05-23",
     "is_active": true,
     "speaker_kit": {
@@ -11,6 +16,34 @@
         "travel_included": true
     },
     "events": [
+        {
+            "name": "php[tek] 2019",
+            "location": {
+                "name": "Atlanta, GA, USA"
+            },
+            "event_start": "2018-05-21",
+            "event_end": "2018-05-23",
+            "cfp_start": "",
+            "cfp_end": "",
+            "cfp_url": "",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#phptek",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "Oscar Merida",
+                    "twitter": "@omerida"
+                }
+            ]
+        },
         {
             "name": "php[tek] 2018",
             "location": {
@@ -373,7 +406,5 @@
                 }
             ]
         }
-    ],
-    "website": "https://tek.phparch.com/",
-    "twitter": "@phparch"
+    ]
 }
