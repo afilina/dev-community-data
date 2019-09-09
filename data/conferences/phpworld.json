@@ -10,6 +10,33 @@
     },
     "events": [
         {
+            "name": "php[world] 2019",
+            "location": {
+                "name": "Washington, D.C., USA"
+            },
+            "event_start": "2018-10-22",
+            "event_end": "2018-10-25",
+            "cfp_start": "2018-06-08",
+            "cfp_end": "2018-07-01",
+            "session_feed": "",
+            "speaker_feed": "",
+            "hashtag": "#phpworld",
+            "organizers": [
+                {
+                    "name": "Eli White",
+                    "twitter": "@EliW"
+                },
+                {
+                    "name": "Heather White",
+                    "twitter": "@CattyHeather"
+                },
+                {
+                    "name": "Oscar Merida",
+                    "twitter": "@omerida"
+                }
+            ]
+        },
+        {
             "name": "php[world] 2018",
             "location": {
                 "name": "Washington, D.C., USA"
@@ -166,5 +193,5 @@
         }
     ],
     "website": "https://world.phparch.com/",
-    "twitter": "@phparch"
+    "twitter": "@_phpworld"
 }
