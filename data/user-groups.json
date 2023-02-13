@@ -485,7 +485,11 @@
         "key": "frankfurtphp",
         "name": "The Frankfurt PHPUG",
         "tags": ["php"],
-        "first_event": "2001-12-01"
+        "first_event": "2001-09-07",
+        "website": "https://phpugffm.de",
+        "twitter": "@phpugffm",
+        "mastodon": "@phpugffm@phpc.social",
+        "calendar_feed": "https://phpugffm.de/events.ics"
     },
     {
         "key": "afup",
