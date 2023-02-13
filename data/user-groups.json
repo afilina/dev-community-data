@@ -916,9 +916,11 @@
             {
                 "name": "Istanbul, Turkey",
                 "first_meetup": "2017-06-05",
-                "last_meetup": "2014-10-15"
+                "last_meetup": ""
             }
         ],
-        "calendar_feed": "https://www.meetup.com/istanbulphp/events/rss/"
+        "website": "https://kommunity.com/istanbulphp",
+        "calendar_feed": "",
+        "twitter": "@istanbulphp"
     }   
 ]
