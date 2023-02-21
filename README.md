@@ -83,8 +83,3 @@ The files under [/data/conferences](https://github.com/afilina/dev-community-dat
     ]
 }
 ```
-
-## Applications
-
-Known applications that use this data:
- - [ConFoo Community](https://community.confoo.ca/) - Conference and user group search. Report issues on the [project page](https://github.com/afilina/confoo-community)
