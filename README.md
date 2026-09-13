@@ -1,3 +1,5 @@
+Note: archiving because people stopped submitting data here. Feel free to make a copy of the data or use the JSON format.
+
 # Community Data
 
 [![Build Status](https://travis-ci.org/afilina/dev-community-data.svg?branch=master)](https://travis-ci.org/afilina/dev-community-data)
